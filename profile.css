@@ -1,0 +1,64 @@
+.pic1{
+    height: 100px;
+    width: 100px;
+}
+
+.pic2{
+    height: 300px;
+    width: 300px;
+}
+
+img{
+
+    height: 300px;
+    width: 300px;
+
+}
+
+.firstdiv{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+/* .container1{
+    margin-top: 40px;
+    background-color: aqua;
+}  */
+
+.wordback{
+    background-color: whitesmoke;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+}
+
+div.containerline
+{
+  height:350px;
+  width:350px;
+  margin:2px auto;
+  padding-top:4px;
+}
+hr.beautiful-line{
+ 	border-top: 1px solid #999; 
+  width: 90%;
+}
+
+.navlist{
+    list-style: none;
+}
+
+.secondline{
+    width: 100%;
+    border-top: 3px solid #999; 
+
+}
+
+div.div-secondline
+{
+  height:900px;
+  width:900px;
+  margin:2px auto;
+  padding-top:4px;}
